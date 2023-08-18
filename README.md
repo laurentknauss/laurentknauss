@@ -1,4 +1,4 @@
-come![banner](./Welcome.png)
+![banner](./Welcome.jpg)
 
 
 
