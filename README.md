@@ -17,12 +17,25 @@
 <br>
 
 
-**- Golang**.<br>
-**- Linux containers : Docker & orchestration tools : Docker SwarmKit & Kubernetes** .<br>
-**- **<br>
 
-<br>
-<br>
+🔭 I’m currently working with Golang, Digital Ocean. <br />
+🌱 I’m currently learning Docker & Kubernetes.  <br />
+✍🏻 When not busy working , I do content writing for the tech community on my personal blog  `https://knauss.dev`. <br />
+📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
+
+
+
+
+
+
+
+### Connect with me:
+[![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laurentknauss&&theme=monokai&area=true&hide_border=true)
 
 
