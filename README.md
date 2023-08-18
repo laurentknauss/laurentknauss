@@ -1,9 +1,4 @@
-![banner](./Welcome.jpg)
 
-
-
-<br>
-<br>
 <br>
 
  👋 👋   **HI, I am Laurent , french developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
