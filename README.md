@@ -6,19 +6,18 @@
  <br>
  
  
- 👀 **My main professional interests & endeavours are in the field of Blockchains Architecture**. <br>
+ 👀 **My main professional interests & endeavours are in the field of Blockchains Architecture & Linux containers**. <br>
  <br>
  <br>
  
  
 
-🌱  **My peers say that I have  currently a confirmed  solidity level & currently honing my skills as a Golang programmer & a Docker Certified**
-    **Associate- btw, my favorite stack is as follows:**<br>
+🌱  **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Docker Certified Associate.**
+    
 <br>
 
 
 **- Golang**.<br>
-**- Solidity-Hardhat-Ethers.js**.<br>
 **- Linux containers : Docker & orchestration tools : Docker SwarmKit & Kubernetes** .<br>
 **- **<br>
 
