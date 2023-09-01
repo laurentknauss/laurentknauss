@@ -20,7 +20,7 @@
 
 🔭 I’m currently working with Golang, Digital Ocean. <br />
 🌱 I’m currently learning Docker & Kubernetes.  <br />
-✍🏻 When not busy working , I do content writing for the tech community on my personal blog  `https://knauss.dev`. <br />
+✍🏻 I am also building some content writing for the tech community on my soon-to-be-released personal blog  `https://knauss.dev`. <br />
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
 
