@@ -24,7 +24,7 @@
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
 
-When not working, I like to mountain bike & also listen to great podcasts : JRE, HubernmanLab, Lex Fridman.
+When not working, I like to mountain bike & also listen to great podcasts : JRE, HubermanLab, Lex Fridman.
 
 
 
