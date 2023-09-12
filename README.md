@@ -18,8 +18,8 @@
 
 
 
-🔭 I’m currently working with Golang, Digital Ocean. <br />
-🌱 I’m currently learning Docker & Kubernetes.  <br />
+🔭 I’m currently coding  with Golang .  <br />
+🌱 I’m currently learning Docker, Kubernetes, etcd, Raft consensus protocol.  <br />
 ✍🏻 I am also building some content writing for the tech community on my soon-to-be-released personal blog  `https://knauss.dev`. <br />
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
