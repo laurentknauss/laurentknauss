@@ -1,7 +1,7 @@
 ![banner](./image.jpeg)
 <br>
 
- 👋 👋   ### **HI, I am Laurent , Remote-only French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
+ 👋 👋  **HI, I am Laurent , Remote-only French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
  <br>
  <br>
  
