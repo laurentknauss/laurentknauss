@@ -1,7 +1,7 @@
 ![banner](./image.jpeg)
 <br>
 
- 👋 👋   **HI, I am Laurent , french developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
+ 👋 👋   ### **HI, I am Laurent , Remote-only French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
  <br>
  <br>
  
@@ -32,6 +32,7 @@ When not working, I like to mountain bike & also listen to great podcasts : JRE,
 
 ### Connect with me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/laurentknauss)
 
 
 <!--   GitHub stats graph -->
