@@ -1,25 +1,25 @@
 ![banner](./image.jpeg)
 <br>
 
- 👋 👋  **HI, I am Laurent , Remote-only French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
+ 👋 👋  **HI, I am Laurent , Remote-first French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
  <br>
  <br>
  
  
- 👀 **My main professional interests & endeavours are in the field of Blockchains Architecture & Linux containers**. <br>
+ 👀 **My main professional interests & endeavours are in the field of Systems Monitoring , gRPC architecture & Linux containers**. <br>
  <br>
  <br>
  
  
 
-🌱  **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Docker Certified Associate.**
+🌱  **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Prometheus Certified Associate.**
     
 <br>
 
 
 
 🔭 I’m currently coding  with Golang .  <br />
-🌱 I’m currently learning Docker, Kubernetes, etcd, Raft consensus protocol.  <br />
+🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta .  <br />
 ✍🏻 I am also building some content writing for the tech community on my soon-to-be-released personal blog  `https://knauss.dev`. <br />
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
