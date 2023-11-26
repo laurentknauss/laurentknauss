@@ -6,7 +6,7 @@
  <br>
  
  
- 👀 **My main professional interests & endeavours are in the field of Systems Monitoring , gRPC architecture & Linux containers**. <br>
+ 👀 **My main professional interests & endeavours are in the field of Systems Monitoring , gRPC architecture**. <br>
  <br>
  <br>
  
