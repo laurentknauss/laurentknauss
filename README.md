@@ -18,9 +18,9 @@
 
 
 
-🔭 I’m currently coding  with Golang .  <br />
-🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta .  <br />
-✍🏻 I am also building some content writing my personal blog  `knauss.dev`. <br />
+🔭 I’m currently coding  with Golang.    <br />
+🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br />
+✍🏻 I am also building some content writing my personal blog  `https://knauss.dev`.   <br />
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
 
 
