@@ -18,10 +18,16 @@
 
 
 
-🔭 I’m currently coding  with Golang.    <br />
+🔭 I’m currently coding  with Golang.  <br />
+&nbsp;  
 🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br />
+&nsbp;  
 ✍🏻 I am also building some content writing my personal blog ->  [knauss.dev](https://knauss.dev)    <br />
+&nsbp;  
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
+&nsbp;  
+
+
 
 
 When not working, I like to mountain bike & also listen to great podcasts : JRE, HubermanLab, Lex Fridman.
