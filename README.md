@@ -1,5 +1,6 @@
 ![banner](./image.jpeg)
-<br>
+<br>  
+&nbsp;
 
  👋 👋  **HI, I am Laurent , Remote-first French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
  <br>
@@ -12,20 +13,20 @@
  
  
 
-🌱  **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Prometheus Certified Associate.**
-    
+👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Prometheus Certified Associate**
 <br>
+&nbsp;
 
 
 
-🔭 I’m currently coding  with Golang.  <br />
+🔭 I’m currently coding  with Golang.  <br>
 &nbsp;  
-🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br />
-&nsbp;  
-✍🏻 I am also building some content writing my personal blog ->  [knauss.dev](https://knauss.dev)    <br />
-&nsbp;  
-📫 Reach me out on: `laurentknauss@protonmail.com`. <br />
-&nsbp;  
+🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br>
+&nbsp;  
+✍🏻 I am also building some content writing my personal blog ->  [knauss.dev](https://knauss.dev)<br>
+&nbsp;  
+📫 Reach me out on: `laurentknauss@protonmail.com`. <br>
+&nbsp;  
 
 
 
