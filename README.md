@@ -13,7 +13,8 @@
  
  
 
-👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills as a Prometheus Certified Associate**
+👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills to soon take an  
+exam to become a  'Prometheus Certified Associate'** .
 <br>
 &nbsp;
 
@@ -32,12 +33,9 @@
 
 
 When not working, I like to mountain bike & also listen to great podcasts : JRE, HubermanLab, Lex Fridman.
+&nsbp;
 
 
-
-
-
-### Connect with me:
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss) <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
