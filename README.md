@@ -23,7 +23,7 @@
 &nbsp;  
 🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br>
 &nbsp;  
-✍🏻 I am also building some content writing my personal blog ->  [knauss.dev](https://knauss.dev)<br>
+✍🏻 I am also building some content via my personal blog ->  [knauss.dev](https://knauss.dev)<br>
 &nbsp;  
 📫 Reach me out on: `laurentknauss@protonmail.com`. <br>
 &nbsp;  
