@@ -2,35 +2,30 @@
 <br>  
 &nbsp;
 
- 👋 👋  **HI, I am Laurent , remote-first French Golang developer living near the charming city of Versailles.** <br>
+ 👋 👋  **Hi !   I am Laurent , remote-first French Golang developer living near the charming city of Versailles** . <br>
  <br>
  <br>
   
- 👀 **My main professional interests & endeavours are in the field of  coding distributed systems with a gRPC architecture and**. <br>
-  <br>**use CNFT tools to monitor those**
+ 👀 **My main professional interests & endeavours are in the field of  coding distributed systems with a gRPC architecture and** <br>
+  **use CNCF tools to monitor those**.
  <br>
- 
- 
+  
 
 👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills to soon take an  
 exam to become a  'Prometheus Certified Associate'** .
 <br>
 &nbsp;
 
-
-🔭 I’m currently coding  with Golang.  <br>
 &nbsp;  
-🌱 My stack of choice is building and testing codes for microservices with a gRPC architecture  monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br>
+🌱 **My stack of choice: gRPC + 'Prometheus-Grafana-Jaeger' trifecta**.   <br>
 &nbsp;  
-✍🏻 I am also building some content via my personal blog ->  [knauss.dev](https://knauss.dev)<br>
+✍🏻 **My personal blog->**  [knauss.dev](https://knauss.dev)<br>
 &nbsp;  
-📫 Reach me out on: `laurentknauss@protonmail.com`. <br>
+📫 ***To reach out ->  `laurentknauss@protonmail.com`.*** <br>
 &nbsp;  
 
 
-
-
-When not working, I like to mountain bike & also listen to great podcasts : JRE, HubermanLab, Lex Fridman.  
+When not working, I like to mountain bike & also listen to great podcasts : JRE, HubermanLab, Lex Fridman, ...  
 &nbsp;
 
 
