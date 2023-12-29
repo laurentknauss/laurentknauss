@@ -2,13 +2,12 @@
 <br>  
 &nbsp;
 
- 👋 👋  **HI, I am Laurent , remote-first French Golang developer living near the charming city of Versailles .     <br>
+ 👋 👋  **HI, I am Laurent , remote-first French Golang developer living near the charming city of Versailles.** <br>
  <br>
  <br>
- 
- 
- 👀 **My main professional interests & endeavours are in the field of backend coding , distributed systems Monitoring , gRPC architecture**. <br>
- <br>
+  
+ 👀 **My main professional interests & endeavours are in the field of  coding distributed systems with a gRPC architecture and**. <br>
+  <br>**use CNFT tools to monitor those**
  <br>
  
  
