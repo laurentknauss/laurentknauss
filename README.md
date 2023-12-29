@@ -2,12 +2,12 @@
 <br>  
 &nbsp;
 
- 👋 👋  **HI, I am Laurent , Remote-first French software developer living near the charming city of Versailles, soon to relocate in the swiss Alps !**.   ⛷     <br>
+ 👋 👋  **HI, I am Laurent , remote-first French Golang developer living near the charming city of Versailles .     <br>
  <br>
  <br>
  
  
- 👀 **My main professional interests & endeavours are in the field of Systems Monitoring , gRPC architecture**. <br>
+ 👀 **My main professional interests & endeavours are in the field of backend coding , distributed systems Monitoring , gRPC architecture**. <br>
  <br>
  <br>
  
@@ -19,10 +19,9 @@ exam to become a  'Prometheus Certified Associate'** .
 &nbsp;
 
 
-
 🔭 I’m currently coding  with Golang.  <br>
 &nbsp;  
-🌱 My stack of choice is gRPC microservices monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br>
+🌱 My stack of choice is building and testing codes for microservices with a gRPC architecture  monitored with the help of the 'Prometheus-Grafana-Jaeger' trifecta.   <br>
 &nbsp;  
 ✍🏻 I am also building some content via my personal blog ->  [knauss.dev](https://knauss.dev)<br>
 &nbsp;  
