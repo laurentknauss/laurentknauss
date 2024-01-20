@@ -31,7 +31,7 @@ exam to become a  'Prometheus Certified Associate'** .
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  
 &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=darkt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=darkt&layout=default)
 &nbsp;
 
 
