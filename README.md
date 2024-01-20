@@ -23,13 +23,12 @@ exam to become a  'Prometheus Certified Associate'** .
 📫 **To reach out   ->**   ***`laurentknauss@protonmail.com`.*** <br>
 &nbsp;  
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
+![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
+[![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
 &nbsp;
 
 
