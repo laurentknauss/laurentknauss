@@ -14,7 +14,8 @@
 exam to become a  'Prometheus Certified Associate'** .
 <br>
 &nbsp;  
-🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.   <br>
+🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.  
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
