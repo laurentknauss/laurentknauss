@@ -18,10 +18,9 @@ exam to become a  'Prometheus Certified Associate'** .
 &nbsp;  
 🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.   <br>
 &nbsp;  
-✍🏻 **My personal blog  ->**  [knauss.dev](https://knauss.dev)<br>    **To reach out   ->**   ***`laurentknauss@protonmail.com`.*** <br>
-&nbsp;  
+✍🏻 **My personal blog  ->**  [knauss.dev](https://knauss.dev)    📭  **To reach out   ->**   ***`laurentknauss@protonmail.com`.*** <br>&nbsp;  
 
-![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
+![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
 
 
