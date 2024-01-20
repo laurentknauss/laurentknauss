@@ -36,7 +36,7 @@ and take care of those close to my heart.**
 
 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)    ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
+![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)    ![](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
 
 
 
