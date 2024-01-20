@@ -30,13 +30,13 @@ and take care of those close to my heart.**
 &nbsp;
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)            [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
 &nbsp;
 
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laurentknauss&&theme=monokai&area=true&hide_border=true)   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)    ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
 
 
 
