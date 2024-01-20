@@ -30,7 +30,8 @@ exam to become a  'Prometheus Certified Associate'** .
 
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  
-![](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnDoe&theme=darkt&layout=compact)
 &nbsp;
 
 
