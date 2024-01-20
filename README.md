@@ -13,12 +13,9 @@
 👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills to soon take an  
 exam to become a  'Prometheus Certified Associate'** .
 <br>
-&nbsp;
-
 &nbsp;  
 🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.   <br>
-&nbsp;  
-**✍🏻**  ->&nbsp, [knauss.dev](https://knauss.dev)  &nbsp; &nbsp;  &nbsp;    📭 -> ***`laurentknauss@protonmail.com`.*** <br>
+**✍🏻**  -> &nbsp; [knauss.dev](https://knauss.dev)  &nbsp; &nbsp;  &nbsp;    📭 -> ***`laurentknauss@protonmail.com`.*** <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
