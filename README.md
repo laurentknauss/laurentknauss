@@ -23,20 +23,20 @@ exam to become a  'Prometheus Certified Associate'** .
 📫 **To reach out   ->**   ***`laurentknauss@protonmail.com`.*** <br>
 &nbsp;  
 
-
-**When not working, I like to mountain bike , listen to great podcasts : JRE, HubermanLab, Lex Fridman,  
-and take care of those close to my heart.**  
-&nbsp;
-&nbsp;
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
 &nbsp;
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)    ![](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
+![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  
+![](https://activity-graph.herokuapp.com/graph?username=laurentknauss&theme=xcode)
+&nbsp;
 
 
+
+🚲 🎧 **When not working, I like to mountain bike , listen to great podcasts : JRE, HubermanLab, Lex Fridman,  
+and take care of those close to my heart.**  
+&nbsp;
+&nbsp;
 
