@@ -10,8 +10,7 @@
  <br>
  
 
-👨 👩 **My peers say that I have  currently a confirmed Golang level & currently honing my skills to soon take an  
-exam to become a  'Prometheus Certified Associate'** .
+👨 👩 **My peers say that I have  currently a confirmed Golang level .
 <br>
 &nbsp;  
 🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.  
