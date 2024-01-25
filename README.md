@@ -10,7 +10,7 @@
  <br>
  
 
-👨 👩 **My peers say that I have  currently a confirmed Golang level .
+👨 👩 **My peers say that I have  currently a confirmed Golang level** .
 <br>
 &nbsp;  
 🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.  
