@@ -19,6 +19,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[laurentknauss])
+
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
 
