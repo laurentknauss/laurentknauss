@@ -5,15 +5,15 @@
  👋 👋  **Hi !   I am Laurent , remote-first French Golang developer (former NodeJS backend coder) living near the charming city of Versailles** . <br>
  <br>
   
- 👀 **My main professional interests & endeavours are in the field of  coding distributed systems with a gRPC architecture and** <br>
-  **use CNCF tools to monitor those . I also like to work with open-source  Key-Value stores such as LevelDB and its more feature-rich improvement : RocksDB** . 
+ 👀 **My main professional interests & endeavours are in the field of  coding distributed systems & p2p networks** <br>
+  
  <br>
  
 
-👨 👩 **My peers say that I have  currently a confirmed Golang level** .
+👨 👩 **My peers say that I have  currently a experienced Nodejs & Golang level** .
 <br>
 &nbsp;  
-🌱 **My stack of choice: microservices + gRPC + 'Prometheus-Grafana-Jaeger' trifecta + KV storage engines**.  
+🌱 **My stack of choice: tba **.  
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
