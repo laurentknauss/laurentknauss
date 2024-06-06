@@ -13,7 +13,7 @@
 👨 👩 **My peers say that I have  currently a experienced Nodejs & Golang level** .
 <br>
 &nbsp;  
-🌱 **My stack of choice: tba **.  
+🌱 
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
