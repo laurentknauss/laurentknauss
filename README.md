@@ -10,7 +10,7 @@
  <br>
  
 
-👨 👩 **My peers say that I have  currently a experienced Nodejs & Golang level** .
+👨 👩 **My peers say that I have  currently a experienced Nodejs - Golang - Solidity level** .
 <br>
 &nbsp;  
 🌱 
