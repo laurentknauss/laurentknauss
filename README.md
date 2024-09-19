@@ -1,4 +1,4 @@
-![banner](./image.jpeg)
+![banner](./banner.png)
 <br>  
 &nbsp;
 
