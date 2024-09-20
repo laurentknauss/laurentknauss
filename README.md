@@ -27,9 +27,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
 
+![](https://komarev.com/ghpvc/?username=laurentknauss)
+
 **✍🏻**  -> &nbsp; [knauss.dev](https://knauss.dev)  &nbsp; &nbsp;  &nbsp;  
 
 **📭** -> ***`laurentknauss@protonmail.com`.*** <br>
+&nbsp;
 
 
 
