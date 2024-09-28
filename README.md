@@ -12,12 +12,10 @@
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
 &nbsp; 
-
-| **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**               | **Alchemy AccountAbstraction SDK** 
-
-| **RainnbowKit UI** | **Solidity**   | **Go-ethereum**  | **Chainnlink** |  **Avalanche blockchain**  
-
-| **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
+ **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**    | **Alchemy AccountAbstraction SDK** | **RainnbowKit UI** | **Solidity**  |
+&nbsp;&nbsp;
+ **Chainlink** |  **Avalanche blockchain**  | **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
+&nbsp; 
 
 <h2 align="center"> </h2>
 &nbsp;
@@ -35,8 +33,12 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
+&nbsp;
+
 
 ![](https://komarev.com/ghpvc/?username=laurentknauss)
+&nbsp; 
+<h2 align="center"> </h2>
 
 **✍🏻**  -> &nbsp; [knauss.dev](https://knauss.dev)  &nbsp; &nbsp;  &nbsp;  
 
