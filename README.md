@@ -2,7 +2,7 @@
 <br>  
 &nbsp;
 
- 👋 👋  **Hi !   I am Laurent , remote-first French Golang developer (former NodeJS backend coder) living near the charming city of Versailles** . <br>
+ **👋 👋**  **Hi !   I am Laurent , remote-first French blockchain developer living near the charming city of Versailles** . <br>
  <br>
   
  👀 **My main professional interests & endeavours are in the field of  coding distributed systems & p2p networks** <br>
