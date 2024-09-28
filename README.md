@@ -3,18 +3,27 @@
 &nbsp;
 
  **👋 👋**  **Hi !   I am Laurent , remote-first French blockchain developer living near the charming city of Versailles** . <br>
- <br>
-  
- 👀 **My main professional interests & endeavours are in the field of  coding distributed systems & p2p networks** <br>
-  
- <br>
  
-
-👨 👩 **My peers say that I have  currently a experienced Nodejs - Golang - Solidity level** .
-<br>
+  
+ 👀 **My main professional interests & endeavours are in the field of  coding distributed systems & help Distributed Ledger technologies thrive** . 
+ &nbsp;
+ **As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies.** 👨 👩 **My peers say that I have a experienced Nodejs - Golang - Solidity level** .<br>
 &nbsp;  
-🌱 
-<br>
+
+**<h2 align="left">Updated & Current coding stack:</h2>**
+&nbsp; 
+
+| **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**               | **Alchemy AccountAbstraction SDK** 
+
+| **RainnbowKit UI** | **Solidity**   | **Go-ethereum**  | **Chainnlink** |  **Avalanche blockchain**  
+
+| **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
+
+<h2 align="center"> </h2>
+&nbsp;
+
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
 &nbsp;
