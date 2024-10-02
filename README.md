@@ -12,7 +12,7 @@
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
 &nbsp; 
- **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**    | **Alchemy AccountAbstraction SDK** | **RainnbowKit UI** | **Solidity**  |
+ **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**    | **Alchemy AccountAbstraction SDK** | **RainbowKit UI** | **Solidity**  |
 &nbsp;&nbsp;
  **Chainlink** |  **Avalanche blockchain**  | **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
 &nbsp; 
