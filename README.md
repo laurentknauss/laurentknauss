@@ -51,8 +51,8 @@
 
 
 
-🚲 &nbsp;  🎧 &nbsp;  **When not working, I like to mountain bike , listen to great podcasts : JRE, HubermanLab, Lex Fridman,  
-read some good classic litteretures and take care of those close to my heart.**  
+🚲 &nbsp;  🎧 &nbsp;  **When not working, I like to mountain bike, listen to great podcasts : JRE, HubermanLab, Lex Fridman,  
+read some good classic litterature and take care of those close to my heart.**  
 &nbsp;
 &nbsp;
 
