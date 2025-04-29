@@ -2,12 +2,19 @@
 <br>  
 &nbsp;
 
- **👋 👋**  **Hi !   I am Laurent , remote-first French blockchain developer living near the charming city of Versailles** . <br>
+ **👋 👋**  **Hi !   I am Laurent , remote-first French software developer living near the charming city of Versailles** . <br>
  
   
  👀 **My main professional interests & endeavours are in the field of  coding distributed systems & help Distributed Ledger technologies thrive** . 
  &nbsp;
- **As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies.** 👨 👩 **My peers say that I have a experienced Nodejs - Golang - Solidity level** .<br>
+ 👨 👩 **My peers say that I have a experienced Javascript/Typescript - Golang - Solidity level** .
+ <br>
+ &nbsp; 
+ <br> 
+**As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies; as a consequence, as of May 2025 , I am currently learning Python.**  <br>
+
+**Having  found a deep interest in Agentic AI ( Python being the 'de facto' language used by this technology going back to the early days of machine learning ) and  since AI sdks are not rife somehow  in Typescript or Golang , knowing some Python is a another nice tool to have under one's belt in order to interact with all the great AI libraries out there in the communty.**
+ 
 &nbsp;  
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
@@ -54,7 +61,7 @@ I am more of a green tea guy but ... **[☕️](https://buymeacoffee.com/5rr1ank
 
 
 🚲 &nbsp;  🎧 &nbsp;  **When not working, I like to mountain bike, listen to great podcasts : JRE, HubermanLab, Lex Fridman, PBD ,   
-read some good classic litterature and take care of those close to my heart.**  
+read some good classic litterature or inspiring essays  and take care of those close to my heart.**  
 &nbsp;
 &nbsp;
 
