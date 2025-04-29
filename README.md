@@ -13,7 +13,7 @@
  <br> 
 **As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies; as a consequence, as of May 2025 , I am currently learning Python.**  <br>
 
-**Having  found a deep interest in Agentic AI ( Python being the 'de facto' language used by this technology going back to the early days of machine learning ) and  since AI sdks are not rife somehow  in Typescript or Golang , knowing some Python is a another nice tool to have under one's belt in order to interact with all the great AI libraries out there in the communty.**
+**Having  found a deep interest in Agentic AI ( Python being the 'de facto' language used by this technology going back to the early days of machine learning ) and  since AI sdks are not rife somehow  in Typescript or Golang , knowing some Python is  another nice tool to have under one's belt in order to interact with all the great AI libraries out there in the communty.**
  
 &nbsp;  
 
