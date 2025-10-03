@@ -19,8 +19,8 @@
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
 &nbsp; 
- **Nodejs**         | **TypeScript** | **Wagmi**        | **Foundry**    |  **TheGraph**    | **Alchemy AccountAbstraction SDK** | **RainbowKit UI** | **Solidity**  |
-&nbsp;&nbsp;
+ **Nodejs**         | **TypeScript** | **React**        | **Nextjs-Vitejs**    |  **Langchain-Langgraph**    | **Neo4j** | **GraphRAGs** | 
+ &nbsp;&nbsp;
  **Chainlink** |  **Avalanche blockchain**  | **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
 &nbsp; 
 
