@@ -7,7 +7,7 @@
   
  👀 **My main professional interests & endeavours are in the field of  coding distributed systems & help Distributed Ledger technologies thrive** . 
  &nbsp;
- 👨 👩 **My peers say that I have a experienced Javascript/Typescript - Golang - Solidity level** .
+ 👨 👩 **My peers say that I have a seasoned level  Javascript/Typescript both backend & frontend** .
  <br>
  &nbsp; 
  <br> 
