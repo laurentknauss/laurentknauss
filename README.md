@@ -5,8 +5,9 @@
  **👋 👋**  **Hi !   I am Laurent , remote-first French software developer living near the charming city of Versailles** . <br>
  
   
- 👀 **My main professional interests & endeavours are in the field of  coding Agentic AI after havig tinkered into evm-based blockchains , maily the fastest one , Avalanche.** . 
- &nbsp;
+ 👀 **My main professional interests & endeavours are in the field of  coding Agentic AI after having tinkered into evm-based blockchains , mainly the fastest one , Avalanche.** . 
+ &nbsp; 
+ <br> 
  👨 👩 **My peers say that I have a seasoned level  Javascript/Typescript both backend & frontend** .
  <br>
  &nbsp; 
