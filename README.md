@@ -5,7 +5,7 @@
  **👋 👋**  **Hi !   I am Laurent , remote-first French software developer living near the charming city of Versailles** . <br>
  
   
- 👀 **My main professional interests & endeavours are in the field of  coding distributed systems & help Distributed Ledger technologies thrive** . 
+ 👀 **My main professional interests & endeavours are in the field of  coding Agentic AI after havig tinkered into evm-based blockchains , maily the fastest one , Avalanche.** . 
  &nbsp;
  👨 👩 **My peers say that I have a seasoned level  Javascript/Typescript both backend & frontend** .
  <br>
@@ -19,9 +19,9 @@
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
 &nbsp; 
- **Nodejs**         | **TypeScript** | **React**        | **Nextjs-Vitejs**    |  **Langchain-Langgraph**    | **Neo4j** | **GraphRAGs** | 
+ **Nodejs**         | **TypeScript** | **React**        | **Nextjs-Vitejs**    |  **Langchain-Langgraph**    | **Neo4j** | **GraphRAGs** | **ModelContextProtocol** |  
  &nbsp;&nbsp;
- **Chainlink** |  **Avalanche blockchain**  | **Linux**          | **Prometheus** | **Node-exporter**| **Grafana**    |    
+     
 &nbsp; 
 
 <h2 align="center"> </h2>
