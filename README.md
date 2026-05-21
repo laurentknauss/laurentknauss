@@ -28,21 +28,10 @@
 <h2 align="center"> </h2>
 &nbsp;
 
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=laurentknauss&show_icons=true)  &nbsp; &nbsp;   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentknauss&theme=light)
-&nbsp;
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[laurentknauss])
-
-
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
 &nbsp;
-
 
 ![](https://komarev.com/ghpvc/?username=laurentknauss)
 &nbsp; 
@@ -55,14 +44,9 @@
 
 I am more of a green tea guy but ... **[☕️](https://buymeacoffee.com/5rr1ank5gl)**
 
-
-
 &nbsp;
-
-
 
 🚲 &nbsp;  🎧 &nbsp;  **When not working, I like to mountain bike, listen to great podcasts : JRE, HubermanLab, Lex Fridman, PBD ,   
 read some good classic litterature or inspiring essays  and take care of those close to my heart.**  
 &nbsp;
 &nbsp;
-
