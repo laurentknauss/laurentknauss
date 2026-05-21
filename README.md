@@ -48,7 +48,7 @@
 &nbsp; 
 <h2 align="center"> </h2>
 
-**✍🏻**  -> &nbsp; [knauss.dev](https://knauss.dev)  &nbsp; &nbsp;  &nbsp;  
+**✍🏻**  -> &nbsp; [loopingagent.com](https://loopingagent.com)  &nbsp; &nbsp;  &nbsp;  
 
 **📭** -> ***`laurentknauss@protonmail.com`.*** <br>
 &nbsp;
