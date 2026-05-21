@@ -12,10 +12,8 @@
  <br>
  &nbsp; 
  <br> 
-**As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies; as a consequence, as of May 2024 , I have started another journey in agentic AI worflows .**  <br>
+**As a life-long learner , I currently engage in  a relentless commitment to staying at the forefront of emerging technologies; as a consequence, I have started another journey in agentic AI worflows .**  <br>
 
-**Having  found a recent interest in Agentic AI ( Python being the 'de facto' language used by this technology going back to the early days of machine learning ) and  since AI sdks are not rife somehow  in Typescript or Golang , knowing some Python is  another nice tool to have under one's belt in order to interact with all the great AI libraries out there in the communty.**
- 
 &nbsp;  
 
 **<h2 align="left">Updated & Current coding stack:</h2>**
