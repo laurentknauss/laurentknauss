@@ -28,7 +28,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/laurentknauss?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/laurentknauss)          
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurent-knauss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurentknauss/)
 &nbsp;
 
 ![](https://komarev.com/ghpvc/?username=laurentknauss)
